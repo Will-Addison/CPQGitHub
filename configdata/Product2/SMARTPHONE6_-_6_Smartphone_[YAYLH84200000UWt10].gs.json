@@ -1,7 +1,7 @@
 {
   "Object": "Product2",
   "Fields": {
-    "Description": "",
+    "Description": "Mergeconflict2",
     "DisplayUrl": "",
     "ExternalId": "",
     "Extras__c": "false",
@@ -65,7 +65,7 @@
     "SBQQ__Specifications__c": "",
     "SBQQ__SubscriptionBase__c": "List",
     "SBQQ__SubscriptionCategory__c": "",
-    "SBQQ__SubscriptionPercent__c": "",
+    "SBQQ__SubscriptionPercent__c": "20.0",
     "SBQQ__SubscriptionPricing__c": "",
     "SBQQ__SubscriptionTerm__c": "",
     "SBQQ__SubscriptionType__c": "Renewable",
