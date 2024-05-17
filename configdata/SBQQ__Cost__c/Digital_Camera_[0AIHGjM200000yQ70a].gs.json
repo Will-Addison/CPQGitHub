@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Digital Camera",
+    "GearsetExternalId__c": "0AIHGjM200000yQ70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "375.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAI4BBx300000yQt10"
+      }
+    }
+  ]
+}

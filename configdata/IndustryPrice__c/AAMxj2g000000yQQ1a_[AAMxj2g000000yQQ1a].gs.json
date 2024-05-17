@@ -1,0 +1,19 @@
+{
+  "Object": "IndustryPrice__c",
+  "Fields": {
+    "GearsetDisplayName": "AAMxj2g000000yQQ1a",
+    "GearsetExternalId__c": "AAMxj2g000000yQQ1a",
+    "IPIndustry__c": "Education",
+    "IPPrice__c": "530.0",
+    "IPSLA__c": "Gold"
+  },
+  "References": [
+    {
+      "Name": "IPProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAIX9Bx300000yQt10"
+      }
+    }
+  ]
+}

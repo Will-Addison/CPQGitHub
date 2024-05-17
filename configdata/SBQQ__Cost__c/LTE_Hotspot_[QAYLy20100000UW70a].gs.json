@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "LTE Hotspot",
+    "GearsetExternalId__c": "QAYLy20100000UW70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "90.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAYIH84200000UWt10"
+      }
+    }
+  ]
+}

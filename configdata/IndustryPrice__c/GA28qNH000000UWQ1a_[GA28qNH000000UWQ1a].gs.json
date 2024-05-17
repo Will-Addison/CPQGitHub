@@ -1,0 +1,19 @@
+{
+  "Object": "IndustryPrice__c",
+  "Fields": {
+    "GearsetDisplayName": "GA28qNH000000UWQ1a",
+    "GearsetExternalId__c": "GA28qNH000000UWQ1a",
+    "IPIndustry__c": "Healthcare",
+    "IPPrice__c": "435.0",
+    "IPSLA__c": "Gold"
+  },
+  "References": [
+    {
+      "Name": "IPProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAYap64200000UWt10"
+      }
+    }
+  ]
+}

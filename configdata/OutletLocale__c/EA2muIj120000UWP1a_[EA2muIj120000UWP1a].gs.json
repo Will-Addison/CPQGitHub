@@ -1,0 +1,19 @@
+{
+  "Object": "OutletLocale__c",
+  "Fields": {
+    "GearsetDisplayName": "EA2muIj120000UWP1a",
+    "GearsetExternalId__c": "EA2muIj120000UWP1a",
+    "OLCountry__c": "France",
+    "OLRequired__c": "false",
+    "OLType__c": "Enable"
+  },
+  "References": [
+    {
+      "Name": "OLProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAY6q64200000UWt10"
+      }
+    }
+  ]
+}

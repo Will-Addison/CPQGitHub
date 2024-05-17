@@ -1,0 +1,22 @@
+{
+  "Object": "ConsumptionRate",
+  "Fields": {
+    "Description": "",
+    "GearsetDisplayName": "Data - 1001 - 0.01",
+    "GearsetExternalId__c": "AAK1630000000yQoM0",
+    "LowerBound": "1001",
+    "Price": "0.01",
+    "PricingMethod": "PerUnit",
+    "ProcessingOrder": "2",
+    "UpperBound": ""
+  },
+  "References": [
+    {
+      "Name": "ConsumptionSchedule",
+      "ReferencedObject": "ConsumptionSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAKN430000000yQhM0"
+      }
+    }
+  ]
+}
